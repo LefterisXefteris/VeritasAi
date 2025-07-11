@@ -1,1 +1,2 @@
-Veritas is aware of context
+Proxy Gateaway Architecture
+
